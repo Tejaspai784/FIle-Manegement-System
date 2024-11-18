@@ -1,0 +1,6 @@
+admin:main
+user1:123:yes
+user2:12345:yes
+user3:1234
+user4:12345
+userx:1223
